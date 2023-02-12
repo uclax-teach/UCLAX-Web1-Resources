@@ -1,14 +1,14 @@
-import image1 from './images/Alex-Esqueda.jpg';
-import image2 from './images/Silvie-Esqueda.jpg';
-import image3 from './images/Kara-Smith.jpg';
-import image4 from './images/Brook.jpg';
-import image5 from './images/Amber-Dyett.jpg';
-import image6 from './images/Dr-Skyler-Harms.jpg';
-import image7 from './images/Elisa-Eastwood.jpg';
-import image8 from './images/Jaque-Ong.jpg';
-import image9 from './images/John-Giron.jpg';
-import image10 from './images/Karlie-Goretski.jpg';
-import image11 from './images/Shana-Millspaugh.jpg';
+import image1 from './img/Alex-Esqueda.jpg';
+import image2 from './img/Silvie-Esqueda.jpg';
+import image3 from './img/Kara-Smith.jpg';
+import image4 from './img/Brook.jpg';
+import image5 from './img/Amber-Dyett.jpg';
+import image6 from './img/Dr-Skyler-Harms.jpg';
+import image7 from './img/Elisa-Eastwood.jpg';
+import image8 from './img/Jaque-Ong.jpg';
+import image9 from './img/John-Giron.jpg';
+import image10 from './img/Karlie-Goretski.jpg';
+import image11 from './img/Shana-Millspaugh.jpg';
 
 export const staffData = [
     {

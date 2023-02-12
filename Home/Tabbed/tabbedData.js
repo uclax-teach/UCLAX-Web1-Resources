@@ -1,6 +1,6 @@
-import image1 from './images/Alex-Esqueda-Box-Jump.jpg';
-import image2 from './images/Tire-Flip.jpg';
-import image3 from './images/Kids.jpg';
+import image1 from './img/Alex-Esqueda-Box-Jump.jpg';
+import image2 from './img/Tire-Flip.jpg';
+import image3 from './img/Kids.jpg';
 
 export const tabbedData = [
     {

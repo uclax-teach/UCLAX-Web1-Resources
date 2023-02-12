@@ -1,8 +1,8 @@
-import slide1 from './images/Core-Strength.jpg';
-import slide2 from './images/Staff-In-Action.jpg';
-import slide3 from './images/Senior.jpg';
-import slide4 from './images/Group-Picture.jpg';
-import slide5 from './images/Aerial-Open-Gym.jpg';
+import slide1 from './img/Core-Strength.jpg';
+import slide2 from './img/Staff-In-Action.jpg';
+import slide3 from './img/Senior.jpg';
+import slide4 from './img/Group-Picture.jpg';
+import slide5 from './img/Aerial-Open-Gym.jpg';
 
 export const slidesData = [
     {
